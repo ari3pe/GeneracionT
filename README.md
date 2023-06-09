@@ -1,2 +1,2 @@
 # GeneracionT
-Este proyecto es de un curso full-stack en el cuál realizamos ejercicios de html, CSS y javascript.
+Proyecto del curso full-stack "GeneracionT" en el cuál realizamos ejercicios de html, CSS(Front-end) y javascript(Back-end).
