@@ -1,0 +1,30 @@
+body{
+    background-color: lightgrey;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+
+}
+h1{
+    font-size: 45px;
+}
+hr{
+    height: 2px;
+    width: 75%;
+    background-color: black;
+}
+h3{
+    color:#5dc1b9;
+    font-size: 25px;
+
+}
+a{
+    color: #454546;
+}
+
+img{
+    width: 700px;
+}
+
+a:hover{
+    text-decoration: dotted;
+}

@@ -1,0 +1,76 @@
+.perfil{
+    text-align: center;
+}
+
+.acercademi{
+    background-color: rgb(194, 32, 135);
+    border: 2px solid black;
+}
+
+.contenedor-portfolio h2{
+    text-align: center;
+}
+
+.acercademi{
+    text-align: center;
+}
+
+.Contactame h3{
+    text-align: center;
+}
+
+.dir{
+    text-align: center;
+}
+
+.container-fluid{
+    background-color: rgb(151, 24, 134);
+}
+.navsi{
+    padding: 0;
+    border: 2px solid black;
+}
+#shido{
+    border-radius: 25%;
+    border: 2px solid black;
+}
+
+.image{
+    border: 2px solid black;
+}
+
+.contenedor-portfolio img{
+    max-width: 300px;
+    height: 100%;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.Contactame{
+    background-color: rgb(40, 151, 248);
+}
+
+.Contactame button{
+    width: 100px;
+    font-size: 25px;
+}
+
+#Contactame-Datos{
+    font-size: 25px;
+    text-align: left;
+}
+
+#Contactame-Datos2{
+    font-size: 25px;
+    text-align: left;
+}
+
+.contenedorDEiconos{
+    list-style-type: none;
+    flex-direction: row;
+}
+
+.icono img{
+    max-width: 30px;
+    height: auto;
+}
